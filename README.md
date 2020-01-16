@@ -8,7 +8,7 @@ The Program I have in mind would be similar to an Internet Download Manager wher
 Take the following scenario for example:
 
 Transfering multiple files from different directories to C: from External drive. Files all transfering at the same time share the transfer speed capabilities of the HDDs (C: and External), The USB Port/s and even the cable.
-At the same time I am archiving files to an ISO on the external drive and installing someftware from C: to C:
+At the same time I am archiving files to an ISO on the external drive and installing software from C: to C:
 
 I want a program that will assign ques for all of these tasks. 
 
